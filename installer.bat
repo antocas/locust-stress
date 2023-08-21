@@ -1,0 +1,1 @@
+pip install --no-index --find-links .\package -r requirements.txt
